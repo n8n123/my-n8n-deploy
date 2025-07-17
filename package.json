@@ -1,0 +1,11 @@
+{
+  "name": "n8n",
+  "version": "1.100.1",
+  "scripts": {
+    "start": "n8n",
+    "build": "echo \"No build step needed\""
+  },
+  "dependencies": {
+    "n8n": "1.100.1"
+  }
+}
